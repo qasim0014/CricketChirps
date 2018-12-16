@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Cricket</string>
+    <string name="info_text">Back in 1897, a scientist named Amos Dolbear published an article “The Cricket as a Thermometer” that noted the correlation between the ambient temperature and the rate at which crickets chirp.</string>
+</resources>
